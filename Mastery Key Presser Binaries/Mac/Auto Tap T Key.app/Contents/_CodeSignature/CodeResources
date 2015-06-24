@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Resources/AppIcon.icns</key>
+		<data>
+		Q+FrPB2/8w4pFyO4lE16w/7KctE=
+		</data>
+		<key>Resources/Base.lproj/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XkoN6Zvc9VDk2M2k/pHXsWK9U+k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Resources/Ally Champion Health Bar/Bottom Left Corner.png</key>
+		<data>
+		R4/VQtAQLLSBEAHJPR/gjA3J5Tw=
+		</data>
+		<key>Resources/Resources/Ally Champion Health Bar/Bottom Right Corner.png</key>
+		<data>
+		tCDdNg8313XuxaIc/e4B2yZ2G6c=
+		</data>
+		<key>Resources/Resources/Ally Champion Health Bar/Health Segment.png</key>
+		<data>
+		y3e/Nim16SBCTTQMWNJ57CgEn50=
+		</data>
+		<key>Resources/Resources/Ally Champion Health Bar/Top Left Corner.png</key>
+		<data>
+		mAnPeBBo4YTsoffvPyR6cES1URo=
+		</data>
+		<key>Resources/Resources/Ally Champion Health Bar/Top Right Corner.png</key>
+		<data>
+		QR8uOM8pdw1KK8cldbwBp1y0s4M=
+		</data>
+		<key>Resources/Resources/Ally Minion Health Bar/Bottom Left Corner.png</key>
+		<data>
+		EX38dhndK7PpBI5SBSJCZqWzgig=
+		</data>
+		<key>Resources/Resources/Ally Minion Health Bar/Bottom Right Corner.png</key>
+		<data>
+		ejqm9smY719Xn0mFaEKv7ZHkBDc=
+		</data>
+		<key>Resources/Resources/Ally Minion Health Bar/Health Segment.png</key>
+		<data>
+		sGs0h50KaoHkvIVoxmrTpJ/0Shs=
+		</data>
+		<key>Resources/Resources/Ally Minion Health Bar/Top Left Corner.png</key>
+		<data>
+		0H4yu53v0x/Fx4LD3yCVadplFK0=
+		</data>
+		<key>Resources/Resources/Ally Minion Health Bar/Top Right Corner.png</key>
+		<data>
+		hVO8BcIJtdvyGymiIf12epDrxe0=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(1) Play Button.png</key>
+		<data>
+		noJOrU99IMDZSYdKesa7O8ATN2M=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(10) Choose Skin Button.png</key>
+		<data>
+		LqVko1baNphZzTqxzDO9mMEjM3E=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(11) End Game Continue Button.png</key>
+		<data>
+		TVpNFxi/0xSlbzPWZg5nGzC6DM0=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(12) Home Button.png</key>
+		<data>
+		LUeba1qt53AJIw/EdeFQgPFOBHo=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(13) Reconnect Button.png</key>
+		<data>
+		2bImIhexsY0PXIb/dYKX6B9iE80=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(2) PVP Mode.png</key>
+		<data>
+		RM6nhcxgJL5Rg3Nb+B36uCwod0w=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(3) Classic Mode.png</key>
+		<data>
+		QZRUQG0FJuzsbrB23OQ4AtIq9Dk=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(4) Summoner's Rift Mode.png</key>
+		<data>
+		7vfT8MVOba/bvRSs8OJF8Vz+Ep8=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(5) Blind Pick Mode.png</key>
+		<data>
+		HHoq2N2L1X1j38M6uO3NYacS7FE=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(6) Solo Button.png</key>
+		<data>
+		DNVD8qx9dS/sz52YnrQYR3XyiMk=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(7) Accept Button.png</key>
+		<data>
+		5e4qn1KzQTPeTqkzOTV+SnsGkU8=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(8) Random Champion Button.png</key>
+		<data>
+		XqEUtGaiGh8d/5SOkV5B9b35hEM=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(9) Lock In Button.png</key>
+		<data>
+		A14XTMaf7sUZ35Pfw625xtxgnz8=
+		</data>
+		<key>Resources/Resources/Enemy Champion Health Bar/Bottom Left Corner.png</key>
+		<data>
+		IBLSoNZV4cvMraf2YTBn8eiXzPs=
+		</data>
+		<key>Resources/Resources/Enemy Champion Health Bar/Bottom Right Corner.png</key>
+		<data>
+		68QvOH7ASZVeJ4I+VpDYeMZnJF0=
+		</data>
+		<key>Resources/Resources/Enemy Champion Health Bar/Health Segment.png</key>
+		<data>
+		iIptKmvRYJ8rh22G3CswMOUeTuM=
+		</data>
+		<key>Resources/Resources/Enemy Champion Health Bar/Top Left Corner.png</key>
+		<data>
+		JLpxEVUwx4K5TtkJEgxDAD5+fWM=
+		</data>
+		<key>Resources/Resources/Enemy Champion Health Bar/Top Right Corner.png</key>
+		<data>
+		S4avvDXvc4At9Lyjm+c1bbw9diQ=
+		</data>
+		<key>Resources/Resources/Enemy Minion Health Bar/Bottom Left Corner.png</key>
+		<data>
+		oh2fdupz6DjxTK86gwrgEXr4jH0=
+		</data>
+		<key>Resources/Resources/Enemy Minion Health Bar/Bottom Right Corner.png</key>
+		<data>
+		YEhPZ1y/Of3EMbaaV2EDkHtBoPI=
+		</data>
+		<key>Resources/Resources/Enemy Minion Health Bar/Health Segment.png</key>
+		<data>
+		hU3PlJZ5hRhwFbDLm7g+8LNtsAE=
+		</data>
+		<key>Resources/Resources/Enemy Minion Health Bar/Top Left Corner.png</key>
+		<data>
+		EQEfrV3ukmNa337yvzY9rbdG8DI=
+		</data>
+		<key>Resources/Resources/Enemy Minion Health Bar/Top Right Corner.png</key>
+		<data>
+		CZRl+3HzyoeUv4P3/tmZfh3UpvQ=
+		</data>
+		<key>Resources/Resources/Enemy Tower Health Bar/Bottom Left Corner.png</key>
+		<data>
+		50j0hjobxkxmQU4S1C3vl8GnyyA=
+		</data>
+		<key>Resources/Resources/Enemy Tower Health Bar/Bottom Right Corner.png</key>
+		<data>
+		Oqse9uPH3OOXSQG2RGUliH1VdXw=
+		</data>
+		<key>Resources/Resources/Enemy Tower Health Bar/Health Segment.png</key>
+		<data>
+		GuRyFD8RgGTl0HMlCHn6yfHzOZg=
+		</data>
+		<key>Resources/Resources/Enemy Tower Health Bar/Top Left Corner.png</key>
+		<data>
+		DeXsno/s/8DbnwcNqodL73RybgQ=
+		</data>
+		<key>Resources/Resources/Enemy Tower Health Bar/Top Right Corner.png</key>
+		<data>
+		KMHIy8v1zDDGBHN2JIZIziyIPIM=
+		</data>
+		<key>Resources/Resources/Item Bar/PBE/Item On Cooldown.png</key>
+		<data>
+		/MHdB6cbD1hX+g5ajnS+0Mu7gj4=
+		</data>
+		<key>Resources/Resources/Item Bar/PBE/Trinket Active.png</key>
+		<data>
+		ZD74M7UBgetHB2VtAp+9DuU6np4=
+		</data>
+		<key>Resources/Resources/Item Bar/PBE/Usable Item.png</key>
+		<data>
+		Xi0AlFYXiywJXsrAjEupR/Z02fk=
+		</data>
+		<key>Resources/Resources/Item Bar/Trinket Active.png</key>
+		<data>
+		ge5nm9DMDW0bBai0XuXESAzoh80=
+		</data>
+		<key>Resources/Resources/Item Bar/Usable Item.png</key>
+		<data>
+		VmqyvradOtvp/F0mUcBybgDtIBs=
+		</data>
+		<key>Resources/Resources/Self Health Bar/Bottom Left Corner.png</key>
+		<data>
+		TbyhcBzzD7ZXVJSIAx+DGCEYyqU=
+		</data>
+		<key>Resources/Resources/Self Health Bar/Bottom Right Corner.png</key>
+		<data>
+		X9HBp7TtZweJFf8b+9gA/1/9zAM=
+		</data>
+		<key>Resources/Resources/Self Health Bar/Health Segment.png</key>
+		<data>
+		B4OAlCeZWOR/VudBf+Fi7Y52adc=
+		</data>
+		<key>Resources/Resources/Self Health Bar/Top Left Corner.png</key>
+		<data>
+		zp1tcDGnhF8E1HjtTl4Oks/bl8Q=
+		</data>
+		<key>Resources/Resources/Self Health Bar/Top Right Corner.png</key>
+		<data>
+		zJMv8YYB/lcxb0Z9/jHj9OD3feA=
+		</data>
+		<key>Resources/Resources/Shop/Buyable Item.png</key>
+		<data>
+		t3Vni3ay7aehIaaSwIsAyuOtYLs=
+		</data>
+		<key>Resources/Resources/Shop/Empty Item Slot.png</key>
+		<data>
+		HjcW6g454kwpPzpMMQWaNN+7I24=
+		</data>
+		<key>Resources/Resources/Shop/Item.png</key>
+		<data>
+		o50ujF985/bQ1bMR3dvfSDlKiUI=
+		</data>
+		<key>Resources/Resources/Shop/PBE/Empty Item Slot.png</key>
+		<data>
+		vqES6y+GG9bxQ+2WkWPYCcFDwjM=
+		</data>
+		<key>Resources/Resources/Shop/PBE/Item.png</key>
+		<data>
+		Zd0Us+AYFmbYtXk2vwjvQ99TXSE=
+		</data>
+		<key>Resources/Resources/Shop/PBE/Shop Available.png</key>
+		<data>
+		i6qH2R7SO/FTKvPQb+IVXXCL0VI=
+		</data>
+		<key>Resources/Resources/Shop/PBE/Shop Bottom Left Corner.png</key>
+		<data>
+		vJWijykSGR5JgmCAX1cTBgM7BGs=
+		</data>
+		<key>Resources/Resources/Shop/PBE/Shop Window.png</key>
+		<data>
+		I4J/eKfQ9ZOniYdwoD5hcfUZu18=
+		</data>
+		<key>Resources/Resources/Shop/Shop Available.png</key>
+		<data>
+		ghG7zROTjV2EDl3E4DVdIaStvmg=
+		</data>
+		<key>Resources/Resources/Shop/Shop Bottom Left Corner.png</key>
+		<data>
+		UOKW1RcWbR77VcytTCMttfpf7b0=
+		</data>
+		<key>Resources/Resources/Shop/Shop Window.png</key>
+		<data>
+		+E0omizNtgBy2TYGkyUhyrNen1M=
+		</data>
+		<key>Resources/Resources/Shop/Unbuyable Item.png</key>
+		<data>
+		jWq2Fv2iuoK/47Ge5YhUHrzaOAI=
+		</data>
+		<key>Resources/Resources/Skill Bar/Level Up Disabled.png</key>
+		<data>
+		zmNsKmR0ps4W+JOKvTAAHvCitWs=
+		</data>
+		<key>Resources/Resources/Skill Bar/Level Up.png</key>
+		<data>
+		SwaeDKXEZk02YC1/Kqaa0mxMqwE=
+		</data>
+		<key>Resources/Resources/Skill Bar/Leveled Dot.png</key>
+		<data>
+		zsQdGLSGYjZmxOnTRMmkaOu7aig=
+		</data>
+		<key>Resources/Resources/Skill Bar/PBE/Disabled Ability.png</key>
+		<data>
+		gpF3mHq8uD+EWNtqr5P0EoBubwg=
+		</data>
+		<key>Resources/Resources/Skill Bar/PBE/Disabled Summoner Spell.png</key>
+		<data>
+		si82hxJ+nPwNfS1N07TzF6bSGNA=
+		</data>
+		<key>Resources/Resources/Skill Bar/PBE/Enabled Ability.png</key>
+		<data>
+		dqZmLNHoebrjatIA3c0WUpNaMSk=
+		</data>
+		<key>Resources/Resources/Skill Bar/PBE/Enabled Summoner Spell.png</key>
+		<data>
+		wqoS+DG0+IUsbm9cviKZMSgLoXE=
+		</data>
+		<key>Resources/Resources/Skill Bar/PBE/Level Up Disabled.png</key>
+		<data>
+		9xp9l9T0A/EjPdYlQOOyRowUBxQ=
+		</data>
+		<key>Resources/Resources/Skill Bar/PBE/Level Up.png</key>
+		<data>
+		ewa1pUj1Fzku3uYUcFSsCHHelxo=
+		</data>
+		<key>Resources/Resources/Skill Bar/PBE/Leveled Dot.png</key>
+		<data>
+		pL181M26ij777Wj5HQ4ev2HIfV4=
+		</data>
+		<key>Resources/Resources/Ward/Pink Ward.png</key>
+		<data>
+		GTGfNQMooKO4Z4sX8dFygcl0Nmk=
+		</data>
+		<key>Resources/Resources/Ward/Ward.png</key>
+		<data>
+		xXGRwysiCbWhWg74N935lzg3qnU=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>Resources/AppIcon.icns</key>
+		<data>
+		Q+FrPB2/8w4pFyO4lE16w/7KctE=
+		</data>
+		<key>Resources/Base.lproj/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XkoN6Zvc9VDk2M2k/pHXsWK9U+k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Resources/Ally Champion Health Bar/Bottom Left Corner.png</key>
+		<data>
+		R4/VQtAQLLSBEAHJPR/gjA3J5Tw=
+		</data>
+		<key>Resources/Resources/Ally Champion Health Bar/Bottom Right Corner.png</key>
+		<data>
+		tCDdNg8313XuxaIc/e4B2yZ2G6c=
+		</data>
+		<key>Resources/Resources/Ally Champion Health Bar/Health Segment.png</key>
+		<data>
+		y3e/Nim16SBCTTQMWNJ57CgEn50=
+		</data>
+		<key>Resources/Resources/Ally Champion Health Bar/Top Left Corner.png</key>
+		<data>
+		mAnPeBBo4YTsoffvPyR6cES1URo=
+		</data>
+		<key>Resources/Resources/Ally Champion Health Bar/Top Right Corner.png</key>
+		<data>
+		QR8uOM8pdw1KK8cldbwBp1y0s4M=
+		</data>
+		<key>Resources/Resources/Ally Minion Health Bar/Bottom Left Corner.png</key>
+		<data>
+		EX38dhndK7PpBI5SBSJCZqWzgig=
+		</data>
+		<key>Resources/Resources/Ally Minion Health Bar/Bottom Right Corner.png</key>
+		<data>
+		ejqm9smY719Xn0mFaEKv7ZHkBDc=
+		</data>
+		<key>Resources/Resources/Ally Minion Health Bar/Health Segment.png</key>
+		<data>
+		sGs0h50KaoHkvIVoxmrTpJ/0Shs=
+		</data>
+		<key>Resources/Resources/Ally Minion Health Bar/Top Left Corner.png</key>
+		<data>
+		0H4yu53v0x/Fx4LD3yCVadplFK0=
+		</data>
+		<key>Resources/Resources/Ally Minion Health Bar/Top Right Corner.png</key>
+		<data>
+		hVO8BcIJtdvyGymiIf12epDrxe0=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(1) Play Button.png</key>
+		<data>
+		noJOrU99IMDZSYdKesa7O8ATN2M=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(10) Choose Skin Button.png</key>
+		<data>
+		LqVko1baNphZzTqxzDO9mMEjM3E=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(11) End Game Continue Button.png</key>
+		<data>
+		TVpNFxi/0xSlbzPWZg5nGzC6DM0=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(12) Home Button.png</key>
+		<data>
+		LUeba1qt53AJIw/EdeFQgPFOBHo=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(13) Reconnect Button.png</key>
+		<data>
+		2bImIhexsY0PXIb/dYKX6B9iE80=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(2) PVP Mode.png</key>
+		<data>
+		RM6nhcxgJL5Rg3Nb+B36uCwod0w=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(3) Classic Mode.png</key>
+		<data>
+		QZRUQG0FJuzsbrB23OQ4AtIq9Dk=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(4) Summoner's Rift Mode.png</key>
+		<data>
+		7vfT8MVOba/bvRSs8OJF8Vz+Ep8=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(5) Blind Pick Mode.png</key>
+		<data>
+		HHoq2N2L1X1j38M6uO3NYacS7FE=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(6) Solo Button.png</key>
+		<data>
+		DNVD8qx9dS/sz52YnrQYR3XyiMk=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(7) Accept Button.png</key>
+		<data>
+		5e4qn1KzQTPeTqkzOTV+SnsGkU8=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(8) Random Champion Button.png</key>
+		<data>
+		XqEUtGaiGh8d/5SOkV5B9b35hEM=
+		</data>
+		<key>Resources/Resources/Auto Queue Images/(9) Lock In Button.png</key>
+		<data>
+		A14XTMaf7sUZ35Pfw625xtxgnz8=
+		</data>
+		<key>Resources/Resources/Enemy Champion Health Bar/Bottom Left Corner.png</key>
+		<data>
+		IBLSoNZV4cvMraf2YTBn8eiXzPs=
+		</data>
+		<key>Resources/Resources/Enemy Champion Health Bar/Bottom Right Corner.png</key>
+		<data>
+		68QvOH7ASZVeJ4I+VpDYeMZnJF0=
+		</data>
+		<key>Resources/Resources/Enemy Champion Health Bar/Health Segment.png</key>
+		<data>
+		iIptKmvRYJ8rh22G3CswMOUeTuM=
+		</data>
+		<key>Resources/Resources/Enemy Champion Health Bar/Top Left Corner.png</key>
+		<data>
+		JLpxEVUwx4K5TtkJEgxDAD5+fWM=
+		</data>
+		<key>Resources/Resources/Enemy Champion Health Bar/Top Right Corner.png</key>
+		<data>
+		S4avvDXvc4At9Lyjm+c1bbw9diQ=
+		</data>
+		<key>Resources/Resources/Enemy Minion Health Bar/Bottom Left Corner.png</key>
+		<data>
+		oh2fdupz6DjxTK86gwrgEXr4jH0=
+		</data>
+		<key>Resources/Resources/Enemy Minion Health Bar/Bottom Right Corner.png</key>
+		<data>
+		YEhPZ1y/Of3EMbaaV2EDkHtBoPI=
+		</data>
+		<key>Resources/Resources/Enemy Minion Health Bar/Health Segment.png</key>
+		<data>
+		hU3PlJZ5hRhwFbDLm7g+8LNtsAE=
+		</data>
+		<key>Resources/Resources/Enemy Minion Health Bar/Top Left Corner.png</key>
+		<data>
+		EQEfrV3ukmNa337yvzY9rbdG8DI=
+		</data>
+		<key>Resources/Resources/Enemy Minion Health Bar/Top Right Corner.png</key>
+		<data>
+		CZRl+3HzyoeUv4P3/tmZfh3UpvQ=
+		</data>
+		<key>Resources/Resources/Enemy Tower Health Bar/Bottom Left Corner.png</key>
+		<data>
+		50j0hjobxkxmQU4S1C3vl8GnyyA=
+		</data>
+		<key>Resources/Resources/Enemy Tower Health Bar/Bottom Right Corner.png</key>
+		<data>
+		Oqse9uPH3OOXSQG2RGUliH1VdXw=
+		</data>
+		<key>Resources/Resources/Enemy Tower Health Bar/Health Segment.png</key>
+		<data>
+		GuRyFD8RgGTl0HMlCHn6yfHzOZg=
+		</data>
+		<key>Resources/Resources/Enemy Tower Health Bar/Top Left Corner.png</key>
+		<data>
+		DeXsno/s/8DbnwcNqodL73RybgQ=
+		</data>
+		<key>Resources/Resources/Enemy Tower Health Bar/Top Right Corner.png</key>
+		<data>
+		KMHIy8v1zDDGBHN2JIZIziyIPIM=
+		</data>
+		<key>Resources/Resources/Item Bar/PBE/Item On Cooldown.png</key>
+		<data>
+		/MHdB6cbD1hX+g5ajnS+0Mu7gj4=
+		</data>
+		<key>Resources/Resources/Item Bar/PBE/Trinket Active.png</key>
+		<data>
+		ZD74M7UBgetHB2VtAp+9DuU6np4=
+		</data>
+		<key>Resources/Resources/Item Bar/PBE/Usable Item.png</key>
+		<data>
+		Xi0AlFYXiywJXsrAjEupR/Z02fk=
+		</data>
+		<key>Resources/Resources/Item Bar/Trinket Active.png</key>
+		<data>
+		ge5nm9DMDW0bBai0XuXESAzoh80=
+		</data>
+		<key>Resources/Resources/Item Bar/Usable Item.png</key>
+		<data>
+		VmqyvradOtvp/F0mUcBybgDtIBs=
+		</data>
+		<key>Resources/Resources/Self Health Bar/Bottom Left Corner.png</key>
+		<data>
+		TbyhcBzzD7ZXVJSIAx+DGCEYyqU=
+		</data>
+		<key>Resources/Resources/Self Health Bar/Bottom Right Corner.png</key>
+		<data>
+		X9HBp7TtZweJFf8b+9gA/1/9zAM=
+		</data>
+		<key>Resources/Resources/Self Health Bar/Health Segment.png</key>
+		<data>
+		B4OAlCeZWOR/VudBf+Fi7Y52adc=
+		</data>
+		<key>Resources/Resources/Self Health Bar/Top Left Corner.png</key>
+		<data>
+		zp1tcDGnhF8E1HjtTl4Oks/bl8Q=
+		</data>
+		<key>Resources/Resources/Self Health Bar/Top Right Corner.png</key>
+		<data>
+		zJMv8YYB/lcxb0Z9/jHj9OD3feA=
+		</data>
+		<key>Resources/Resources/Shop/Buyable Item.png</key>
+		<data>
+		t3Vni3ay7aehIaaSwIsAyuOtYLs=
+		</data>
+		<key>Resources/Resources/Shop/Empty Item Slot.png</key>
+		<data>
+		HjcW6g454kwpPzpMMQWaNN+7I24=
+		</data>
+		<key>Resources/Resources/Shop/Item.png</key>
+		<data>
+		o50ujF985/bQ1bMR3dvfSDlKiUI=
+		</data>
+		<key>Resources/Resources/Shop/PBE/Empty Item Slot.png</key>
+		<data>
+		vqES6y+GG9bxQ+2WkWPYCcFDwjM=
+		</data>
+		<key>Resources/Resources/Shop/PBE/Item.png</key>
+		<data>
+		Zd0Us+AYFmbYtXk2vwjvQ99TXSE=
+		</data>
+		<key>Resources/Resources/Shop/PBE/Shop Available.png</key>
+		<data>
+		i6qH2R7SO/FTKvPQb+IVXXCL0VI=
+		</data>
+		<key>Resources/Resources/Shop/PBE/Shop Bottom Left Corner.png</key>
+		<data>
+		vJWijykSGR5JgmCAX1cTBgM7BGs=
+		</data>
+		<key>Resources/Resources/Shop/PBE/Shop Window.png</key>
+		<data>
+		I4J/eKfQ9ZOniYdwoD5hcfUZu18=
+		</data>
+		<key>Resources/Resources/Shop/Shop Available.png</key>
+		<data>
+		ghG7zROTjV2EDl3E4DVdIaStvmg=
+		</data>
+		<key>Resources/Resources/Shop/Shop Bottom Left Corner.png</key>
+		<data>
+		UOKW1RcWbR77VcytTCMttfpf7b0=
+		</data>
+		<key>Resources/Resources/Shop/Shop Window.png</key>
+		<data>
+		+E0omizNtgBy2TYGkyUhyrNen1M=
+		</data>
+		<key>Resources/Resources/Shop/Unbuyable Item.png</key>
+		<data>
+		jWq2Fv2iuoK/47Ge5YhUHrzaOAI=
+		</data>
+		<key>Resources/Resources/Skill Bar/Level Up Disabled.png</key>
+		<data>
+		zmNsKmR0ps4W+JOKvTAAHvCitWs=
+		</data>
+		<key>Resources/Resources/Skill Bar/Level Up.png</key>
+		<data>
+		SwaeDKXEZk02YC1/Kqaa0mxMqwE=
+		</data>
+		<key>Resources/Resources/Skill Bar/Leveled Dot.png</key>
+		<data>
+		zsQdGLSGYjZmxOnTRMmkaOu7aig=
+		</data>
+		<key>Resources/Resources/Skill Bar/PBE/Disabled Ability.png</key>
+		<data>
+		gpF3mHq8uD+EWNtqr5P0EoBubwg=
+		</data>
+		<key>Resources/Resources/Skill Bar/PBE/Disabled Summoner Spell.png</key>
+		<data>
+		si82hxJ+nPwNfS1N07TzF6bSGNA=
+		</data>
+		<key>Resources/Resources/Skill Bar/PBE/Enabled Ability.png</key>
+		<data>
+		dqZmLNHoebrjatIA3c0WUpNaMSk=
+		</data>
+		<key>Resources/Resources/Skill Bar/PBE/Enabled Summoner Spell.png</key>
+		<data>
+		wqoS+DG0+IUsbm9cviKZMSgLoXE=
+		</data>
+		<key>Resources/Resources/Skill Bar/PBE/Level Up Disabled.png</key>
+		<data>
+		9xp9l9T0A/EjPdYlQOOyRowUBxQ=
+		</data>
+		<key>Resources/Resources/Skill Bar/PBE/Level Up.png</key>
+		<data>
+		ewa1pUj1Fzku3uYUcFSsCHHelxo=
+		</data>
+		<key>Resources/Resources/Skill Bar/PBE/Leveled Dot.png</key>
+		<data>
+		pL181M26ij777Wj5HQ4ev2HIfV4=
+		</data>
+		<key>Resources/Resources/Ward/Pink Ward.png</key>
+		<data>
+		GTGfNQMooKO4Z4sX8dFygcl0Nmk=
+		</data>
+		<key>Resources/Resources/Ward/Ward.png</key>
+		<data>
+		xXGRwysiCbWhWg74N935lzg3qnU=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^Resources/</key>
+		<true/>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
